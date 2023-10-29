@@ -1,0 +1,8 @@
+2023/10/22-19:33:52.627 5fb4 Reusing MANIFEST C:/Users/OWNER/GDW_Labs/MyProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/22-19:33:52.628 5fb4 Recovering log #4
+2023/10/22-19:33:52.629 5fb4 Reusing old log C:/Users/OWNER/GDW_Labs/MyProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/10/22-19:34:39.581 5fb4 Level-0 table #8: started
+2023/10/22-19:34:39.582 5fb4 Level-0 table #8: 0 bytes OK
+2023/10/22-19:34:39.684 5fb4 Delete type=0 #4
+2023/10/22-19:34:39.687 5fb4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/22-19:34:39.687 5fb4 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

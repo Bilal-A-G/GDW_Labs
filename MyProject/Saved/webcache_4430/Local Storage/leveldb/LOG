@@ -1,2 +1,6 @@
-2023/10/07-18:37:24.002 f74 Creating DB C:/Users/OWNER/GDW_Labs/MyProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/10/07-18:37:24.029 f74 Reusing MANIFEST C:/Users/OWNER/GDW_Labs/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/22-19:33:40.091 7024 Reusing MANIFEST C:/Users/OWNER/GDW_Labs/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/22-19:33:40.106 7024 Recovering log #3
+2023/10/22-19:33:40.107 7024 Reusing old log C:/Users/OWNER/GDW_Labs/MyProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/10/22-19:35:52.586 6908 Level-0 table #5: started
+2023/10/22-19:35:52.597 6908 Level-0 table #5: 20917 bytes OK
+2023/10/22-19:35:52.601 6908 Delete type=0 #3
